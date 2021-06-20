@@ -45,7 +45,7 @@ GitLab 비밀번호를 입력
 소스트리 계정정보 지우기   
 1. 파인더 열고 커맨드 + 시프트 + G  
 2. “~/Library/Application Support/SourceTree” 입력   
-3. <이름>@STAuth-gitlab.com  파일 삭제   
+3. {이름}@STAuth-gitlab.com  파일 삭제   
   
 키체인 지우기   
 1. 커맨드 + 스페이스   
