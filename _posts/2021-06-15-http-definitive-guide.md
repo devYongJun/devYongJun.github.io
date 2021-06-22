@@ -1,7 +1,7 @@
 ---
 title: HTTP 완벽가이드를 읽고
 author: Yongjun
-date: 2021-06-15 00:00:00 +0800
+date: 2021-06-15 00:00:00 +0900
 categories: [book, http]
 tags: [http]
 ---

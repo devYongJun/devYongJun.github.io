@@ -1,7 +1,7 @@
 ---
 title: Unity와 Android 네이티브 플러그인 (Unity - Android Native Plugin)
 author: Yongjun
-date: 2020-05-17 00:00:00 +0800
+date: 2020-05-17 00:00:00 +0900
 categories: [unity, plugin]
 tags: [unity, android, native]
 ---

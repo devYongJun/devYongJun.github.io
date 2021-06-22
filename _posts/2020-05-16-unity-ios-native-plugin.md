@@ -1,7 +1,7 @@
 ---
 title: Unity와 IOS 네이티브 플러그인 (Unity - IOS Native Plugin)
 author: Yongjun
-date: 2020-05-16 00:00:00 +0800
+date: 2020-05-16 00:00:00 +0900
 categories: [unity, plugin]
 tags: [unity, ios, native]
 ---

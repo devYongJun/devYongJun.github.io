@@ -1,7 +1,7 @@
 ---
 title: 드럼 커버 - 위대한 쇼맨
 author: Yongjun
-date: 2020-12-15 00:00:00 +0800
+date: 2020-12-15 00:00:00 +0900
 categories: [hobby, drum]
 tags: [drum, cover, video]
 ---

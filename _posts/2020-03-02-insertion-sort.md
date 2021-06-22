@@ -1,7 +1,7 @@
 ---
 title: 삽입 정렬 (Insertion Sort)
 author: Yongjun
-date: 2020-03-02 00:00:00 +0800
+date: 2020-03-02 00:00:00 +0900
 categories: [algorithm, sort]
 tags: [insertion, sort]
 ---

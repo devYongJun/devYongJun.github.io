@@ -1,7 +1,7 @@
 ---
 title: 애플 보상판매와 M1 Macbook Air 구매
 author: Yongjun
-date: 2021-06-01 00:00:00 +0800
+date: 2021-06-01 00:00:00 +0900
 categories: [hardware, apple]
 tags: [apple, macbook, m1, tradein]
 ---

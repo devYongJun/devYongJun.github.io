@@ -1,7 +1,7 @@
 ---
 title: 소스트리-깃랩 연동하기 (HTTPS)
 author: Yongjun
-date: 2020-05-09 00:00:00 +0800
+date: 2020-05-09 00:00:00 +0900
 categories: [git, sorcetree]
 tags: [sourcetree, gitlab, https]
 ---

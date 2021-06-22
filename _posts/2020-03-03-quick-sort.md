@@ -1,7 +1,7 @@
 ---
 title: 퀵 정렬 (Quick Sort)
 author: Yongjun
-date: 2020-03-03 00:00:00 +0800
+date: 2020-03-03 00:00:00 +0900
 categories: [algorithm, sort]
 tags: [quick, sort]
 ---

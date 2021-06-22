@@ -1,7 +1,7 @@
 ---
 title: 선택 정렬 (Selection Sort)
 author: Yongjun
-date: 2020-02-29 00:00:00 +0800
+date: 2020-02-29 00:00:00 +0900
 categories: [algorithm, sort]
 tags: [selection, sort]
 ---

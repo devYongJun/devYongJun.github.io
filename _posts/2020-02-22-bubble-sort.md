@@ -1,7 +1,7 @@
 ---
 title: 거품 정렬 (Bubble Sort)
 author: Yongjun
-date: 2020-02-22 11:33:00 +0800
+date: 2020-02-22 11:33:00 +0900
 categories: [algorithm, sort]
 tags: [bubble, sort]
 ---

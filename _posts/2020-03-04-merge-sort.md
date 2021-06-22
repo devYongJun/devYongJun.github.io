@@ -1,7 +1,7 @@
 ---
 title: 병합 정렬 (Merge Sort)
 author: Yongjun
-date: 2020-03-04 00:00:00 +0800
+date: 2020-03-04 00:00:00 +0900
 categories: [algorithm, sort]
 tags: [merge, sort]
 ---
